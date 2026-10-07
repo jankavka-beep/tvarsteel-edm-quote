@@ -8,4 +8,4 @@ Pillow>=10.0
 cadquery-ocp>=7.8
 opencv-python-headless
 
-ocrmac>=1.0.0
+
